@@ -37,3 +37,9 @@ https://babeljs.io/
 - Better comments
 - Bracket Pair Colorization 
 - ESLint
+
+
+#### React Components
+
+- Class component
+- Functional component  : JS Function returns React elements

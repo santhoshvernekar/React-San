@@ -74,7 +74,12 @@ JSX -> HTML/XML like syntax
 Babel: Transpiler or Javascript compiler and it converts JSX to JS code
 JSX code is transpiled to JS code before reaches JS engine.
 
-Prettier Code extension
+Extensions for VS code:
+
+Prettier Code 
+Better comments
+Bracket Pair Colorization 
+ESLint
 
 --------------------------------------------
 
