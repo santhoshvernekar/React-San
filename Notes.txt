@@ -1,0 +1,6 @@
+Emmet -> VS code code generator
+
+React Element -> Object
+Render method -> It converts code into html
+
+NPM -> Manages the packages 
