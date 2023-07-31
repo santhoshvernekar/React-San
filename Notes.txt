@@ -3,4 +3,89 @@ Emmet -> VS code code generator
 React Element -> Object
 Render method -> It converts code into html
 
+------------------------------------------
+
 NPM -> Manages the packages 
+
+Bundlers: bundle the app , WebPack,Parcel 
+
+npm install -D packageName
+
+-D :  Dev dependency , Required for development purpose
+
+Parcel
+
+- Dev Build
+- Local Server
+- HMR ->Hot module replacement
+- File watching Algorithm - Written in C++
+- Caching - Faster Builds
+- Image optimization
+- Minification
+- Bundle
+- Compressing
+- Consistent Hashing
+- Code Splitting
+- Differential Bundling - Support Older browsers
+- Diagnostics
+- Error Handling
+- HTTPs
+- Tree Shaking  - Remove unused code
+- Different dev and prod bundles
+
+npx parcel build index.html
+
+BrowserList
+- browserlist.dev
+
+  "last 10 Chrome version",
+    "last 10 Firefox versions",
+    "last 10 versions"
+-------------------------------------------
+Package.json:
+
+Package versions: Tilde ^ , Caret ~
+Caret -> Parcle updates minor versions
+Tilde -> Parcle updates major versions
+Always prefer caret in code
+
+Integrity : Hash value, keeps hash value in package-lock.json
+
+Transitive dependency: Dependency having dependency on other packages
+
+--------------------------------------------
+To host in localhost:
+
+npx parcel index.html
+
+npx : Executing a node package
+
+npm install react
+npm install react-dom
+--------------------------------------------
+script type="module"  -> To setup script as module
+
+--------------------------------------------
+
+
+--------------------------------------------
+
+
+
+--------------------------------------------
+
+
+--------------------------------------------
+
+
+--------------------------------------------
+
+
+
+--------------------------------------------
+
+
+--------------------------------------------
+
+
+--------------------------------------------

@@ -1,0 +1,29 @@
+{
+  "name": "react-san",
+  "version": "1.0.0",
+  "description": "This is React repo",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhoshvernekar/React-San.git"
+  },
+  "author": "Santhosh Vernekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santhoshvernekar/React-San/issues"
+  },
+  "homepage": "https://github.com/santhoshvernekar/React-San#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 10 versions"
+  ]
+}
