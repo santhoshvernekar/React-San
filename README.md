@@ -1,6 +1,6 @@
 # React
 
-### Parcel
+### Parcel:
 
 - Dev Build
 - Local Server
@@ -17,3 +17,23 @@
 - Error Handling
 - HTTPs
 - Tree Shaking  - Remove unused code
+- Different dev and prod bundles
+
+https://parceljs.org/
+
+
+#### Babel:
+
+Babel is transpiler or Javascript compiler
+
+Babel converts JSX code into React Element or Javascript code.
+
+https://babeljs.io/
+
+
+#### Extensions for VS Code:
+
+- Prettier Code 
+- Better comments
+- Bracket Pair Colorization 
+- ESLint

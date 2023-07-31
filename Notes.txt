@@ -36,11 +36,14 @@ Parcel
 npx parcel build index.html
 
 BrowserList
+- Powerful tool
 - browserlist.dev
 
-  "last 10 Chrome version",
+  "browserslist":[
+    "last 10 Chrome version",
     "last 10 Firefox versions",
     "last 10 versions"
+  ]
 -------------------------------------------
 Package.json:
 
@@ -66,7 +69,12 @@ npm install react-dom
 script type="module"  -> To setup script as module
 
 --------------------------------------------
+JSX -> HTML/XML like syntax
 
+Babel: Transpiler or Javascript compiler and it converts JSX to JS code
+JSX code is transpiled to JS code before reaches JS engine.
+
+Prettier Code extension
 
 --------------------------------------------
 
